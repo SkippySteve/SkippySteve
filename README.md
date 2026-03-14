@@ -1,4 +1,11 @@
-### Hi there 👋
+Interested in all things Linux, Cloud, SRE and Cybersecurity.
+
+Currently learning more about Azure. Developing ways to quickly deploy apps consisting of multiple pieces (backend and frontend) to Azure using IaC for labbing, then tear it down just as quickly to save on costs when done labbing. Everything should be automated as much as possible:
+- Creation of RGs, VMs/CAE/AKS, 
+- Service Connectors (so Azure DevOps Pipelines have permissions to run az CLI commands)
+- RBAC for User Assigned Managed Identities to Push to Container Registries, Pull from Registries and Deploy to VMs, Container Apps, AKS etc
+- RBAC to use Key Vaults so backend can store ENV vars securely
+
 
 <!--
 **SkippySteve/SkippySteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
