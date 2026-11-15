@@ -3,7 +3,7 @@ Agent-accelerated.
 Instrument with OTel from day 1; ship fast!
 Latency, traffic, errors, and saturation -> Agentic-lead queries.
 
-The CIS Controls and the Cloud Native Roadmap are my north star.
+The [CIS Controls](https://www.cisecurity.org/controls/cis-controls-list) and the [Cloud Native Trail Map](https://github.com/cncf/trailmap) are my north stars.
 
 <!--
 **SkippySteve/SkippySteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
